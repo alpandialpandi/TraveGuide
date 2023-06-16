@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TraveGuide</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="edit_username">Edit Username</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="hello">Hello Traveller!</string>
+    <string name="already">Already have an Account?</string>
+    <string name="create">Create an Account?</string>
+    <string name="enter">Enter your details to create your account</string>
+    <string name="place">Place</string>
+    <string name="city">City</string>
+    <string name="tips">Tips</string>
+    <string name="rating">4.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
